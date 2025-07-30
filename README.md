@@ -1,5 +1,5 @@
 # 👋 Hi, I’m *@11476*
-- 👀 I’m interested in connect four.
+- 👀 I’m interested in games.
 - 🌱 I’m currently learning C++ & algorithms
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: don't
